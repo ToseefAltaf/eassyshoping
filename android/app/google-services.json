@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165161712792",
+    "project_id": "eassyshopping-f4350",
+    "storage_bucket": "eassyshopping-f4350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165161712792:android:651eda4500ebc7d83b64ed",
+        "android_client_info": {
+          "package_name": "com.example.ecomress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobZ5L_I9aUExObrwjZBw9tQ2obB9xqtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
